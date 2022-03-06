@@ -100,7 +100,7 @@ submit.addEventListener('click',()=>{
         <button class="btn" onclick="location.reload()" >Play Again</button>
         `;
 
-       showScore.classList.remove(`.scoreArea`);
+       showScore.classList.remove(`scoreArea`);
     }
 
 });
